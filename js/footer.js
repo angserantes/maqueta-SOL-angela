@@ -40,9 +40,17 @@ footerTemplate.innerHTML = `
     .social-row li a {
       margin: 0 15px;
     }
+    .concello{
+      width: 50px;
+      margin-right: 150px
+    }
   </style>
   <footer>
-    
+  <nav>
+  <ul>
+    <li><img class="concello" src="/img/logo.jpg"></li>
+    </ul>
+    </nav>
   </footer>
 `;
 

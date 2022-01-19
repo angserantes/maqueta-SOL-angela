@@ -30,14 +30,19 @@ headerTemplate.innerHTML = `
       padding-bottom: 5px;
       box-shadow: inset 0 -2px 0 0 #fff;
     }
+    .concello{
+      width: 50px;
+      margin-right: 150px
+    }
   </style>
   <header>
     <nav>
       <ul>
+        <li><img class="concello" src="/img/logo.jpg"></li>
         <li><a href="index.html">Inicio</a></li>
         <li><a href="citas.html">Citas</a></li>
         <li><a href="empresas.html">Empresas</a></li>
-        <li><a href="personas.html">Personas</a></li>
+        <li><a href="personas.html">Persoas</a></li>
         <li><a href="usuario.html">Usuario</a></li>
       </ul>
     </nav>
