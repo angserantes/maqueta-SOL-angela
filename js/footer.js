@@ -41,7 +41,7 @@ footerTemplate.innerHTML = `
       margin: 0 15px;
     }
     .concello{
-      width: 50px;
+      width: 80px;
       margin-right: 150px
     }
   </style>

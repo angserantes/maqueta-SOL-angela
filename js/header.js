@@ -17,6 +17,7 @@ headerTemplate.innerHTML = `
     ul li {
       list-style: none;
       display: inline;
+      margin-top: 20px;
     }
     
     a {
@@ -31,7 +32,7 @@ headerTemplate.innerHTML = `
       box-shadow: inset 0 -2px 0 0 #fff;
     }
     .concello{
-      width: 50px;
+      width: 80px;
       margin-right: 150px
     }
   </style>
