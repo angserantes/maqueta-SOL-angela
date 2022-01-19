@@ -42,7 +42,8 @@ footerTemplate.innerHTML = `
     }
     .concello{
       width: 80px;
-      margin-right: 150px
+      margin-right: 150px;
+      cursor: pointer;
     }
   </style>
   <footer>

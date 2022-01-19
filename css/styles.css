@@ -119,7 +119,7 @@
     text-decoration: none;
   }
   .container .info span .fa {
-    color: #EF3B3A;
+    color:#B81207;
   }
 
   h2{
@@ -127,4 +127,48 @@
     margin-top: 40px;
     color: white;
   }
-  
+
+  .calendar {
+    position: relative;
+    background: #ffffff;
+    border-radius: 8px;
+    width: 150px;
+    text-align: center;
+    overflow: hidden;
+    -webkit-box-reflect: below 1px linear-gradient (transparent, transparent, #0004);
+    margin-top: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+
+  .calendar #monthName {
+    position: relative;
+    background: #B81207;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 600px;
+    text-transform: uppercase;
+  }
+
+  .calendar #dayName {
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 20px;
+    color: #999;
+  }
+
+  .calendar #dayNumber {
+    font-size: 70px;
+    font-weight: 700;
+    margin-top: 0px;
+    color: #333;
+    line-height: 1em;
+  }
+
+  .calendar #year {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #999;
+  }
