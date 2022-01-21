@@ -9,3 +9,5 @@ Seguido de esto se han aprovechado diferentes recursos de CodePen. En concreto e
 En la página de Citas se ha incluído un calendario de CodePen para que el personal del SOL pueda trabajar con él.
 
 Además se ha añadido un formulario para que puedan registran nuevas citas desde la propia intranet.
+
+Se ha escogido el background-image, pensando en el servicio de orientación laboral, y se ha escogido una imagen del "Monumento al trabajo" de Vigo, creyendo que es algo oportuno para el contexto.
